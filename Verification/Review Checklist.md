@@ -1,4 +1,4 @@
-# Review Checklist — game.cpp (Static Code Verification)
+# Review Checklist — game.cpp
 
 | Category | Result (ISSUE/OK) | Defect |
 |----------|-------------------|--------|
